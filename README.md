@@ -15,7 +15,7 @@ A computer vision application built with Python and OpenCV that performs real-ti
 ## How to Run
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/](https://github.com/)<your-username>/real-time-face-detection.git
+git clone https://github.com/deepthik575-lgtm/real-time-face-detection.git
    cd real-time-face-detection
 
 Install dependencies:
